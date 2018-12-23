@@ -31,3 +31,5 @@ To run this DNS server, simply input the following code in the shell:
 --config_path(optional): Use specified file to configure the DNS server's database.
 
 ## Demos
+![](https://github.com/hangyhan/dns_server/blob/master/Xnip2018-12-23_21-18-28.jpg)
+![](https://github.com/hangyhan/dns_server/blob/master/Xnip2018-12-23_21-18-56.jpg)
