@@ -20,7 +20,7 @@ This is a simple dns server implemented with python
 ## Usage
 To run this DNS server, simply input the following code in the shell:
 
-    sudo python dnsrelay[-d|-dd] [--server_addr] [--config_path]
+    sudo python dnsrelay.py [-d|-dd] [--server_addr] [--config_path]
 
 - -d(optional): Print the query domain name and its IP address to the DNS server's shell.
 
